@@ -70,3 +70,18 @@ Multiple Jumper Wires
 <br>
 <br>
 Multiple Jumper Wires
+
+#Final Project Circuit and Final Project Implementation:
+# Prototype Circuit
+![Final Circuit 1](https://github.com/joshuapagonas/Automatic-Lottery-Machine/blob/main/Images/EGR_2800_Final_Project_Final_Circuit_1.jpeg?raw=true)
+![Final Circuit 2](https://github.com/joshuapagonas/Automatic-Lottery-Machine/blob/main/Images/EGR_2800_Final_Project_Final_Circuit_2.jpeg?raw=true)
+![Final Circuit 3](https://github.com/joshuapagonas/Automatic-Lottery-Machine/blob/main/Images/EGR_2800_Final_Project_Final_Circuit_3.jpeg?raw=true)
+![Final Circuit 4](https://github.com/joshuapagonas/Automatic-Lottery-Machine/blob/main/Images/EGR_2800_Final_Project_Final_Circuit_4.jpeg?raw=true)
+![Final Circuit 5](https://github.com/joshuapagonas/Automatic-Lottery-Machine/blob/main/Images/EGR_2800_Final_Project_Final_Circuit_5.jpeg?raw=true)
+![Final Circuit 6](https://github.com/joshuapagonas/Automatic-Lottery-Machine/blob/main/Images/EGR_2800_Final_Project_Final_Circuit_6.jpeg?raw=true)
+![Final Circuit 7](https://github.com/joshuapagonas/Automatic-Lottery-Machine/blob/main/Images/EGR_2800_Final_Project_Final_Circuit_7.jpeg?raw=true)
+![Final Circuit 8](https://github.com/joshuapagonas/Automatic-Lottery-Machine/blob/main/Images/EGR_2800_Final_Project_Final_Circuit_8.jpeg?raw=true)
+![Final Circuit 9](https://github.com/joshuapagonas/Automatic-Lottery-Machine/blob/main/Images/EGR_2800_Final_Project_Final_Circuit_9.jpeg?raw=true)
+![Final Circuit 10](https://github.com/joshuapagonas/Automatic-Lottery-Machine/blob/main/Images/EGR_2800_Final_Project_Final_Circuit_10.jpeg?raw=true)
+![Final Circuit 11](https://github.com/joshuapagonas/Automatic-Lottery-Machine/blob/main/Images/EGR_2800_Final_Project_Final_Circuit_11.jpeg?raw=true)
+![Final Circuit 12](https://github.com/joshuapagonas/Automatic-Lottery-Machine/blob/main/Images/EGR_2800_Final_Project_Final_Circuit_12.jpeg?raw=true)
