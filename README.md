@@ -1,11 +1,6 @@
 # Automatic-Lottery-Machine
 Motor Control and Electrical Subsystem code for my EGR 2800 Final Project - Automatic Lottery Machine. The code files present are both the prototype code and the production code stemming from their respective electrical subsystems/circuits. 
 
-# Prototype Circuit
-Prototype Circuit                                            |  Prototype Circuit
-:-------------------------                                  :|:-------------------------:
-![Prototype Circuit 1](EGR_2800_Prototype_Circuit_1.jpeg)   |  ![Prototype Circuit 2](EGR_2800_Prototype_Circuit_2.jpeg)
-
 # Electronic Parts Included within the Prototype Circuit:
 1 Arduino Mega 2560
 <br>
@@ -38,6 +33,10 @@ Prototype Circuit                                            |  Prototype Circui
 <br>
 <br>
 Multiple Jumper Wires
+
+# Prototype Circuit
+![Prototype Circuit 1](EGR_2800_Prototype_Circuit_1.jpeg) 
+![Prototype Circuit 2](EGR_2800_Prototype_Circuit_2.jpeg)
 
 # Electronic Parts Included within the Project:
 1 Arduino UNO R4 MINIMA
