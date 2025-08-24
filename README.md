@@ -71,8 +71,7 @@ Multiple Jumper Wires
 <br>
 Multiple Jumper Wires
 
-#Final Project Circuit and Final Project Implementation:
-# Prototype Circuit
+# Final Project Circuit and Final Project Implementation:
 ![Final Circuit 1](https://github.com/joshuapagonas/Automatic-Lottery-Machine/blob/main/Images/EGR_2800_Final_Project_Final_Circuit_1.jpeg?raw=true)
 ![Final Circuit 2](https://github.com/joshuapagonas/Automatic-Lottery-Machine/blob/main/Images/EGR_2800_Final_Project_Final_Circuit_2.jpeg?raw=true)
 ![Final Circuit 3](https://github.com/joshuapagonas/Automatic-Lottery-Machine/blob/main/Images/EGR_2800_Final_Project_Final_Circuit_3.jpeg?raw=true)
