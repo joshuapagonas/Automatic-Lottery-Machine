@@ -38,12 +38,14 @@ Multiple Jumper Wires
 <br>
   Link: https://www.amazon.com/dp/B01GEA8PQA?ref=ppx_pop_mob_ap_share
 <br>
+<br>
 1 Ultrasonic Sensor
 <br>
 1 Motor Driver (DROK DC Motor Driver, L298 Dual H Bridge Motor Speed Controller DC 6.5V-27V 7A PWM Motor Regulator Board 12V 24V Electric Motor Control Module Industrial 160W with Optocoupler Isolation)
 <br> 
 <br>
   Link: https://www.amazon.com/dp/B06XGD5SCB?ref=ppx_pop_mob_ap_share&th=1
+<br>
 <br>
 2 Greartisan DC Gear Motors (12V RPM 150 High Torque Electric Micro Speed Reduction Geared Motor Centric Output Shaft 37mm Diameter Gearbox)
 <br>
