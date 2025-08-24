@@ -8,30 +8,42 @@ Motor Control and Electrical Subsystem code for my EGR 2800 Final Project - Auto
 # Electronic Parts Included within the Prototype Circuit:
 1 Arduino Mega 2560
 <br>
+<br>
 1 Breadboard
+<br>
 <br>
 1 Power Supply Module
 <br>
+<br>
 1 Ultrasonic Sensor
+<br>
 <br>
 1 9V1A Power Adapter
 <br>
+<br>
 2 Small buttons
+<br>
 <br>
 2 220 Ω Resistors
 <br>
+<br>
 2 L293D H-Bridges
+<br>
 <br>
 2 DC Motors (3-6V)
 <br>
+<br>
 2 SG90 Servo Motors
+<br>
 <br>
 Multiple Jumper Wires
 
 # Electronic Parts Included within the Project:
 1 Arduino UNO R4 MINIMA
 <br>
+<br>
 1 Breadboard
+<br>
 <br>
 1 Power Supply Module (ALITOVE DC 12V 5A Power Supply Adapter Converter Transformer AC 100-240V Input with 5.5x2.5mm DC Output Jack for 5050 3528 LED Strip Module Light)
 <br>
@@ -40,6 +52,7 @@ Multiple Jumper Wires
 <br>
 <br>
 1 Ultrasonic Sensor
+<br>
 <br>
 1 Motor Driver (DROK DC Motor Driver, L298 Dual H Bridge Motor Speed Controller DC 6.5V-27V 7A PWM Motor Regulator Board 12V 24V Electric Motor Control Module Industrial 160W with Optocoupler Isolation)
 <br> 
@@ -51,6 +64,8 @@ Multiple Jumper Wires
 <br>
   Link: https://www.amazon.com/dp/B08D3SSG55?ref=ppx_pop_mob_ap_share&th=1
 <br>
+<br>
 2 SG90 Servo Motors
+<br>
 <br>
 Multiple Jumper Wires
