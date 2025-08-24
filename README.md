@@ -34,7 +34,7 @@ Motor Control and Electrical Subsystem code for my EGR 2800 Final Project - Auto
 <br>
 Multiple Jumper Wires
 
-# Prototype Circuit
+# Prototype Circuit:
 ![Prototype Circuit 1](https://github.com/joshuapagonas/Automatic-Lottery-Machine/blob/main/Images/EGR_2800_Final_Project_Prototype_Circuit_1.jpeg?raw=true)
 ![Prototype Circuit 2](https://github.com/joshuapagonas/Automatic-Lottery-Machine/blob/main/Images/EGR_2800_Final_Project_Prototype_Circuit_2.jpeg?raw=true)
 
