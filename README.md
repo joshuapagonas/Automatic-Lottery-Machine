@@ -35,8 +35,8 @@ Motor Control and Electrical Subsystem code for my EGR 2800 Final Project - Auto
 Multiple Jumper Wires
 
 # Prototype Circuit
-![Prototype Circuit 1](EGR_2800_Prototype_Circuit_1.jpeg) 
-![Prototype Circuit 2](EGR_2800_Prototype_Circuit_2.jpeg)
+![Prototype Circuit 1](Images/EGR_2800_Prototype_Circuit_1.jpeg) 
+![Prototype Circuit 2](Images/EGR_2800_Prototype_Circuit_2.jpeg)
 
 # Electronic Parts Included within the Project:
 1 Arduino UNO R4 MINIMA
