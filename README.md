@@ -4,6 +4,12 @@ Motor Control and Electrical Subsystem code for my EGR 2800 Final Project - Auto
 # Project Overview:
 My group and I created an Automatic Lottery Machine as our Final Project for our EGR 2800 Design and Analysis of Electromechanical Systems course. The user pulls a 3D Printed Lever resulting in the center Greartisan DC Motor spin in a clockwise direction flipping the balls over and over again until a small hatch controlled by a single servo motor opens up to let in a ball into the trey. Once the ball is in the trey, the hatch closes releasing the ball and sliding down to where the second servo motor acting as the gate is present. As the ball rolls by, the Ultrasonic Sensor tracks the motion of the ball resulting in the small hatch of the first servo motor to unlock once more releasing another ball from the machine. This keeps going until there are five balls in total waiting to be relased back into the Lottery Machine. Once all five balls are present, the second servo motor's hatch unlocks and the balls head straight towards the spinning auger. The spinning auger activates when the second servo motor hatch releases the balls currently enqueued. The spinning auger has a Greartisan DC Motor attached to it allowing for the auger to spin in the clockwise direction pushing the balls directly up back into the lottery machine ready to be trialed once more. The Automatic Lottery Machine was built from the ground up using 3D printing (thanks to CAD Software), tools from the Arduino Kit, and Third Party Electronics. 
 
+# Project Contributors:
+Joshua Pagonas - Electrical (Prototype Circuit) and Firmware Engineer (Prototype and Final Circuit)
+Jon Kinney - Electrical (Final Circuit) and Firmware Engineer (Final Circuit)
+Jaden Kobus - Mechanical Engineer (CAD File Designer and 3D Printing Administrator)
+Ava Kobus - Mechanical Engineer (CAD File Designer and Material Implementation)
+
 # Electronic Parts Included within the Prototype Circuit:
 1 Arduino Mega 2560
 <br>
