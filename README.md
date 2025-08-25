@@ -6,8 +6,11 @@ My group and I created an Automatic Lottery Machine as our Final Project for our
 
 # Project Contributors:
 Joshua Pagonas - Electrical (Prototype Circuit) and Firmware Engineer (Prototype and Final Circuit)
+<br>
 Jon Kinney - Electrical (Final Circuit) and Firmware Engineer (Final Circuit)
+<br>
 Jaden Kobus - Mechanical Engineer (CAD File Designer and 3D Printing Administrator)
+<br>
 Ava Kobus - Mechanical Engineer (CAD File Designer and Material Implementation)
 
 # Electronic Parts Included within the Prototype Circuit:
